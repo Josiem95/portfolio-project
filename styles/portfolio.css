@@ -1,0 +1,17 @@
+/*font-family: 'Pacifico', cursive;
+font-family: "Roboto", sans-serif; */
+/* color: #f8f398; */
+
+body {
+  text-align: center;
+  background: #cbf078;
+}
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
