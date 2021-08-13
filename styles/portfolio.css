@@ -10,6 +10,9 @@ h1 {
   font-family: "Pacifico", cursive;
   text-shadow: 5px 5px #f8f398;
   font-size: 100px;
+}
+
+.hero {
   margin-top: 150px;
 }
 
@@ -48,4 +51,21 @@ footer {
   color: #cbf078;
   background-color: #212529;
   border-color: #f8f398;
+}
+
+.contact-icons {
+  margin-top: 110px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 75px;
+}
+
+.contact-text {
+  font-size: 15px;
+  font-family: "roboto", sans-serif;
+  color: #212529;
+}
+.contact-text:hover {
+  color: #212529;
 }
