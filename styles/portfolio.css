@@ -8,7 +8,8 @@ body {
 }
 h1 {
   font-family: "Pacifico", cursive;
-  font-size: 50px;
+  text-shadow: 5px 5px #f8f398;
+  font-size: 70px;
   margin-top: 20px;
 }
 
@@ -19,4 +20,12 @@ p {
 i {
   font-size: 15px;
   padding: 5px;
+}
+
+nav {
+  font-weight: bolder;
+  font-family: "Roboto", sans-serif;
+}
+.navbar-brand {
+  font-family: "Pacifico", cursive;
 }
