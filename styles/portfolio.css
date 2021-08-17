@@ -12,10 +12,6 @@ h1 {
   font-size: 100px;
 }
 
-.hero {
-  margin-top: 150px;
-}
-
 p {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -25,9 +21,6 @@ i {
   font-size: 40px;
   padding: 10px;
   color: black;
-}
-i:hover {
-  color: #f8f398;
 }
 
 nav {
@@ -39,8 +32,15 @@ footer {
   bottom: 0;
   text-align: center;
 }
+
+i:hover {
+  color: #f8f398;
+}
+
 .navbar-brand {
   font-family: "Pacifico", cursive;
+  font-size: 30px;
+  text-shadow: 4px 4px #f8f398;
 }
 
 .btn {
@@ -68,4 +68,8 @@ footer {
 }
 .contact-text:hover {
   color: #212529;
+}
+
+.hero {
+  margin-top: 150px;
 }
