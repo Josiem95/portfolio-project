@@ -73,3 +73,7 @@ i:hover {
 .hero {
   margin-top: 150px;
 }
+
+.about-me {
+  display: inline-flex;
+}
