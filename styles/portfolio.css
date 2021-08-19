@@ -33,6 +33,12 @@ footer {
   text-align: center;
 }
 
+img {
+  max-width: 250px;
+  margin-right: 30px;
+  box-shadow: 5px 5px #f8f398;
+}
+
 i:hover {
   color: #f8f398;
 }
@@ -76,6 +82,7 @@ i:hover {
 
 .about-me {
   display: inline-flex;
+  margin-left: 30px;
 }
 
 @media (max-width: 576px) {
