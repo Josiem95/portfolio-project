@@ -79,12 +79,10 @@ i:hover {
 .hero {
   margin-top: 150px;
 }
-
 .about-me {
   display: inline-flex;
-  margin-left: 30px;
+  margin: 10px;
 }
-
 @media (max-width: 576px) {
   h1 {
     font-size: 50px;
