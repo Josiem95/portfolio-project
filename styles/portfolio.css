@@ -84,6 +84,11 @@ i:hover {
   margin: 10px;
 }
 
+.skills {
+  text-decoration: underline;
+  text-align: center;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 50px;
