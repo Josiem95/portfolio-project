@@ -39,6 +39,9 @@ img {
   box-shadow: 5px 5px #f8f398;
 }
 
+a {
+  color: black;
+}
 i:hover {
   color: #f8f398;
 }
